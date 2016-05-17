@@ -4,7 +4,7 @@
 
 This newsletter template was made for the [Info Management Conference](http://www.infomgmt.org/). It is an one page newsletter in HTML with embedded CSS, so it is easier to load in different email clients. It is also responsive so it can adapt to different screen sizes.
 
-## Struture
+## Structure
 
 This template has the following modules:
 * Header
@@ -16,13 +16,17 @@ This template has the following modules:
 
 ## Elements
 
-### Images
+** Images**
 
 All included images are on BASE64.
 
-### Buttons
+** Buttons **
 
 Buttons are made with rounded corners fully in CSS.
+
+# License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 # Credits
 
