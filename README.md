@@ -16,11 +16,11 @@ This template has the following modules:
 
 ## Elements
 
-** Images**
+**Images**
 
 All included images are on BASE64.
 
-** Buttons **
+**Buttons**
 
 Buttons are made with rounded corners fully in CSS.
 
