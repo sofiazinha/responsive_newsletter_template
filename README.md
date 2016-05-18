@@ -1,4 +1,4 @@
-![](https://doc-0c-0c-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/oq5boo74iqetu37gpp4ev6bb4erhjt69/1463515200000/10484191008273739942/*/0B05z4iJ4Ow2QcVltdF9NM0VTWXM)
+![](https://lh3.googleusercontent.com/-2XWkG3dged0/VzxqtBWJkDI/AAAAAAAAG5Y/-sTEuTTPIoo8-wgKpw5M9z7wHwscfPnDACCo/s1600/newsletter.png)
 
 # Resposive newsletter template
 
